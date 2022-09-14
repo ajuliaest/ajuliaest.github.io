@@ -1,0 +1,19 @@
+#contenedor{
+    margin: 15px
+}
+
+.subtitle {
+    font-family: sans-serif, Sans, Arial, Helvetica;
+	font-weight: bold;
+	font-size: 1.3em;
+	color: rgb(87, 35, 100);
+}
+
+a {
+    color: rgb(87, 35, 100);
+	text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
