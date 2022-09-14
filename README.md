@@ -1,2 +1,1 @@
 # Aleix Julià
-Docente
