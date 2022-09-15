@@ -1,5 +1,5 @@
 #container{
-    margin: 15px
+    margin: 20px
 }
 
 .subtitle {
@@ -8,6 +8,13 @@
 	font-size: 1.3em;
 	color: rgb(172, 172, 172);
 }
+
+.subsubtitle {
+    font-family: sans-serif, Sans, Arial, Helvetica;
+	font-weight: bold;
+	font-size: 1em;
+	color: rgb(0, 0, 0);
+}   
 
 a {
     color: rgb(87, 35, 100);
