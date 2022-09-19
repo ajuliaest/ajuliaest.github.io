@@ -19,7 +19,8 @@
 .gohome {
     font-family: sans-serif, Sans, Arial, Helvetica;
 	font-weight: bold;
-
+    font-size: 1em;
+    color: rgb(172, 172, 172)
 }
 
 a {
